@@ -9,7 +9,7 @@
   
   python train.py --img 640 --batch 16 --epochs 10 --data myvoc.yaml --weights yolov5s.pt
   
-#run 
+# run 
   --Source is the directory of the target dataset, which contains all image files that need to be inferred
   --Weights is the selection of previously trained models
   python .\detect.py --source C:\Users\32631\project\datasets\VOCData\images --weights runs\train\exp7\weights\best.pt
