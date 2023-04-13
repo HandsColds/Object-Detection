@@ -1,0 +1,7 @@
+C:/Users/32631/project/datasets/VOCData/images/000002.jpg
+C:/Users/32631/project/datasets/VOCData/images/000020.jpg
+C:/Users/32631/project/datasets/VOCData/images/000024.jpg
+C:/Users/32631/project/datasets/VOCData/images/000026.jpg
+C:/Users/32631/project/datasets/VOCData/images/000036.jpg
+C:/Users/32631/project/datasets/VOCData/images/000063.jpg
+C:/Users/32631/project/datasets/VOCData/images/000090.jpg

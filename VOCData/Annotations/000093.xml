@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>000093.png</filename>
+	<path>D:\yolov5\VOCData\images\000093.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>503</width>
+		<height>299</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>92</ymin>
+			<xmax>207</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>
