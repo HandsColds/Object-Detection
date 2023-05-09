@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Smoke</folder>
+	<filename>smoke_a938.jpg</filename>
+	<path>C:\Users\32631\project\Smoke\smoke_a938.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>159</width>
+		<height>77</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoking</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>11</ymin>
+			<xmax>108</xmax>
+			<ymax>48</ymax>
+		</bndbox>
+	</object>
+</annotation>
