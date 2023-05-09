@@ -20,9 +20,9 @@ Clone this repo and use the following script to install YOLOv5.
 
 # Results
 The following charts were produced after training YOLOv5s with input size 640x640 on the fire dataset for 10 epochs.
-![P_curve](https://github.com/HandsColds/image-recognition/assets/90797417/49091529-355b-4703-8aac-446c3736f743)![PR_curve](https://github.com/HandsColds/image-recognition/assets/90797417/270991a6-892a-4fcf-87e0-9902f71b8d6d)![R_curve](https://github.com/HandsColds/image-recognition/assets/90797417/5158e967-97d3-4a73-9e37-2533f4ce4e59)
+![P_curve](https://github.com/HandsColds/image-recognition/assets/90797417/49091529-355b-4703-8aac-446c3736f743)
+![PR_curve](https://github.com/HandsColds/image-recognition/assets/90797417/270991a6-892a-4fcf-87e0-9902f71b8d6d)
+![R_curve](https://github.com/HandsColds/image-recognition/assets/90797417/5158e967-97d3-4a73-9e37-2533f4ce4e59)
 
 
 
-<figure class="third">
-    <img src="https://img-blog.csdn.net/2018061215200776?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxODA4OTYx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="200"/><img src="https://img-blog.csdn.net/20180612152032532?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxODA4OTYx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="200"/><img src="https://img-blog.csdn.net/20180612152100203?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzIxODA4OTYx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" width="200"/> </figure>
