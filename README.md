@@ -22,3 +22,9 @@ Clone this repo and use the following script to install YOLOv5.
 The following charts were produced after training YOLOv5s with input size 640x640 on the fire dataset for 10 epochs.
 ![P_curve](https://github.com/HandsColds/image-recognition/assets/90797417/49091529-355b-4703-8aac-446c3736f743)![PR_curve](https://github.com/HandsColds/image-recognition/assets/90797417/270991a6-892a-4fcf-87e0-9902f71b8d6d)![R_curve](https://github.com/HandsColds/image-recognition/assets/90797417/5158e967-97d3-4a73-9e37-2533f4ce4e59)
 
+<div align=center>
+<img src="![P_curve](https://github.com/HandsColds/image-recognition/assets/90797417/70faed02-df52-4165-9c5e-03431936ee5d)" width="180" height="105"> width="180" height="105"/>
+</div>
+
+
+
