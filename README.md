@@ -38,6 +38,6 @@ The smoking detection results were fairly good even though the model was trained
 
 # Code
 xml_to_yolo.py and dataset Collection By Gu, Wangbo and Varre, Jayaram  
-split_train_val.py and data labels By Gu, Wangbo and Torrente, Peter   
-The weights train by Gu, Wangbo , Torrente, Peter and Zhan,Houqi   
-image and video recognition Code and fix bug By Zhan, Houqi ,Gu, Wangbo
+split_train_val.py and data labels By Jiang, Jianan and Torrente, Peter   
+The weights train by Jiang, Jianan , Torrente, Peter and Zhan,Houqi   
+image and video recognition Code and fix bug By Zhan, Houqi ,Jiang, Jianan
