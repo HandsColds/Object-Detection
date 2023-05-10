@@ -42,7 +42,7 @@ def convert_annotation(image_id):
         b = (float(xmlbox.find('xmin').text), float(xmlbox.find('xmax').text), float(xmlbox.find('ymin').text),
              float(xmlbox.find('ymax').text))
         b1, b2, b3, b4 = b
-        # 标注越界修正
+        # Label out-of-bounds correction
         if b2 > w:
             b2 = w
         if b4 > h:
