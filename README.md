@@ -28,10 +28,6 @@ The smoking detection results were fairly good even though the model was trained
 
 
 
-Here's our logo (hover to see the title text):
-
-
-Reference-style: 
-![alt text][logo]
+![alt text][png]
 
 [logo]: https://github.com/HandsColds/image-recognition/blob/main/results/R_curve.png "R_curve.png"
