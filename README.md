@@ -23,6 +23,7 @@ The following charts were produced after training YOLOv5s with input size 640x64
 
 <img src="/results/P_curve.png" width="200" height="100">   <img src="/results/PR_curve.png" width="200" height="100">  <img src="/results/R_curve.png" width="200" height="100"> /n
 
+s
 
 
 
