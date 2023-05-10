@@ -11,7 +11,7 @@ Clone this repo and use the following script to install YOLOv5.
   
   python train.py --img 640 --batch 16 --epochs 10 --data myvoc.yaml --weights yolov5s.pt
   
-# run 
+# Run 
   --Source is the directory of the target dataset, which contains all image files that need to be inferred  
   --Weights is the selection of previously trained models  
   fold---yolov5
