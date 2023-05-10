@@ -32,5 +32,5 @@ The smoking detection results were fairly good even though the model was trained
 
 | Ground Truth | Prediction |
 | ---- | ---- |
-| <img src="/results/val_batch1_labels.jpg" width="250" hspace="5">| <img src="/results/val_batch0_pred.jpg" width="250" hspace="5"> |
+| <img src="/results/val_batch1_labels.jpg" width="250" hspace="50">| <img src="/results/val_batch0_pred.jpg" width="250" hspace="50"> |
 | <img src="/results/P_curve.png" width="250" hspace="5">| <img src="/results/PR_curve.png" width="250" hspace="5"> |
