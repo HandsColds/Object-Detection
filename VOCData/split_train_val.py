@@ -5,14 +5,14 @@ import random
 import argparse
 
 parser = argparse.ArgumentParser()
-#xml文件的地址，根据自己的数据进行修改 xml一般存放在Annotations下
+#The address of the xml file, modify it according to your own data. The xml is generally stored under Annotations
 parser.add_argument('--xml_path', default='Annotations', type=str, help='input xml label path')
-#数据集的划分，地址选择自己数据下的ImageSets/Main
+#Data set division, the address selects ImageSets/Main under your own data
 parser.add_argument('--txt_path', default='ImageSets/Main', type=str, help='output txt label path')
 opt = parser.parse_args()
 
-trainval_percent = 1.0  # 训练集和验证集所占比例。 这里没有划分测试集
-train_percent = 0.9     # 训练集所占比例，可自己进行调整
+trainval_percent = 1.0  # The proportion of training set and validation set. There is no test set split here
+train_percent = 0.9     # The proportion of the training set can be adjusted by yourself
 xmlfilepath = opt.xml_path
 txtsavepath = opt.txt_path
 total_xml = os.listdir(xmlfilepath)
