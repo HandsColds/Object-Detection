@@ -23,18 +23,14 @@ The following charts were produced after training YOLOv5s with input size 640x64
 
 
 
-| 列 1 | 列 2 |列 3 |
+| P_curve | PR_curve |R_curve |
 | ---- | ---- |----|
 | <img src="/results/P_curve.png" width="250" hspace="5">| <img src="/results/PR_curve.png" width="250" hspace="5"> |<img src="/results/R_curve.png" width="250" hspace="5">|
-
-<div align="center">
-    <img src="/results/P_curve.png" width="250" hspace="5">
-    <img src="/results/PR_curve.png" width="250" hspace="5">
-    <img src="/results/R_curve.png" width="250" hspace="5">
-</div>
-
 
 # Prediction Results
 The smoking detection results were fairly good even though the model was trained only for a few epochs.
 
-
+| Ground Truth | Prediction |
+| ---- | ---- |
+| <img src="/results/val_batch1_labels.jpg" width="250" hspace="5">| <img src="/results/val_batch0_pred.jpg" width="250" hspace="5"> |
+| <img src="/results/P_curve.png" width="250" hspace="5">| <img src="/results/PR_curve.png" width="250" hspace="5"> |
