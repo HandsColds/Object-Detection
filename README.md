@@ -1,4 +1,4 @@
-# Yolov5 for somking image-recognition
+# Yolov5 for smoking image-recognition
 In many places, people are violating the regulations or smoking secretly. This detection is to identify whether there are people violating the regulations in the image
 # Install
 Clone this repo and use the following script to install YOLOv5.
