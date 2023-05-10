@@ -2,7 +2,7 @@
 In many places, people are violating the regulations or smoking secretly. This detection is to identify whether there are people violating the regulations in the image
 # Install
 Clone this repo and use the following script to install YOLOv5.
-# Train code
+# Training
   --IMG Set Image Size  
   --Batch sets the amount of data sent into the model for each batch, commonly known as batch size  
   --Epochs sets the number of training rounds  
@@ -11,14 +11,14 @@ Clone this repo and use the following script to install YOLOv5.
   
   python train.py --img 640 --batch 16 --epochs 10 --data myvoc.yaml --weights yolov5s.pt
   
-# Run 
+# Testing 
   --Source is the directory of the target dataset, which contains all image files that need to be inferred  
   --Weights is the selection of previously trained models  
   fold---yolov5
        |--datasets
   python .\detect.py --source ...\datasets\VOCData\images --weights runs\train\exp\weights\best.pt
 
-# Results
+# Training curve
 The following charts were produced after training YOLOv5s with input size 640x640 on the fire dataset for 10 epochs.
 
 
