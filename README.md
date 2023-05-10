@@ -22,5 +22,5 @@ Clone this repo and use the following script to install YOLOv5.
 The following charts were produced after training YOLOv5s with input size 640x640 on the fire dataset for 10 epochs.
 
 ![Alt Text 1](/results/P_curve.png) ![Alt Text 2](/results/PR_curve.png) ![Alt Text 3](/results/R_curve.png)
-
+<img src="/results/P_curve.png" width="200" height="100">
 
