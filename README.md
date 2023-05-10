@@ -30,5 +30,4 @@ The smoking detection results were fairly good even though the model was trained
 
 ![alt text][png]
 
-[png]: https://github.com/HandsColds/image-recognition/blob/main/results/R_curve.png "R_curve.png"
-<img src="R_curve.png" style="border: 1px solid gray; padding: 5px;">
+[png]: https://github.com/HandsColds/image-recognition/blob/main/results/R_curve.png "R_curve.png" <img src="R_curve.png" style="border: 1px solid gray; padding: 5px;">
