@@ -21,15 +21,20 @@ Clone this repo and use the following script to install YOLOv5.
 # Results
 The following charts were produced after training YOLOv5s with input size 640x640 on the fire dataset for 10 epochs.
 
-<img src="/results/P_curve.png" width="200" height="100">   <img src="/results/PR_curve.png" width="200" height="100">  <img src="/results/R_curve.png" width="200" height="100">
-
-# Prediction Results
-The smoking detection results were fairly good even though the model was trained only for a few epochs.
 
 
+| 列 1 | 列 2 |列 3 |
+| ---- | ---- |----|
+| <img src="/results/P_curve.png" width="250" hspace="5">| <img src="/results/PR_curve.png" width="250" hspace="5"> |<img src="/results/R_curve.png" width="250" hspace="5">|
 
 <div align="center">
     <img src="/results/P_curve.png" width="250" hspace="5">
     <img src="/results/PR_curve.png" width="250" hspace="5">
     <img src="/results/R_curve.png" width="250" hspace="5">
 </div>
+
+
+# Prediction Results
+The smoking detection results were fairly good even though the model was trained only for a few epochs.
+
+
